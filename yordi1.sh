@@ -19,3 +19,6 @@ printf "${GREEN}"
 
 printf "=====================================================\n"
 printf "${STOP}"
+
+# figlet with lolcat
+figlet AWESOME | lolcat
